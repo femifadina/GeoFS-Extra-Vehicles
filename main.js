@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GeoFS Extra Vehicles
-// @version      1.2
+// @version      1.8
 // @description  Adds extra vehicles to GeoFS
 // @author       AF267
 // @match        https://geo-fs.com/geofs.php*
